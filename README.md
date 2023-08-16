@@ -26,6 +26,10 @@ To get your local server running use:
 One your server is running you can send it a test locally:
 `sendmail test@localhost < ./email-test.txt`
 
+## Deploy Option - AWS Lightsail
+https://hackernoon.com/install-and-configure-git-on-amazon-lightsail-and-deploy-your-website-in-minutes-freebie-inside
+
+
 ## Notes
 
 - Twilio Tasks have a size limit so for a more robust solution you'll want to implement a database.# plugin-email-tasks
